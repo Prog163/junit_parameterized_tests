@@ -1,6 +1,6 @@
 package com.zaychikov.tests;
 
-public class Main {
+public class ParallelTest {
 
     public static void main(String[] args) {
 
