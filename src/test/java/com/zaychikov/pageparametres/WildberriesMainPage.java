@@ -1,4 +1,4 @@
-package com.zaychikov.tests.pageparametres;
+package com.zaychikov.pageparametres;
 
 import com.codeborne.selenide.SelenideElement;
 

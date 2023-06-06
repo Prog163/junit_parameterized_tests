@@ -1,8 +1,8 @@
-package com.zaychikov.tests.pagedata;
+package com.zaychikov.pagedata;
 
 public enum MenuItem {
 
-    Location("Адреса"),
+    LOCATION("Адреса"),
     LOGIN("Войти"),
     BASKET("Корзина");
 

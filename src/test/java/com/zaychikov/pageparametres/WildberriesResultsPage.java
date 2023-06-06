@@ -1,9 +1,9 @@
-package com.zaychikov.tests.pageparametres;
+package com.zaychikov.pageparametres;
 
 import com.codeborne.selenide.CollectionCondition;
 import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.ElementsCollection;
-import com.zaychikov.tests.pagedata.MenuItem;
+import com.zaychikov.pagedata.MenuItem;
 
 import static com.codeborne.selenide.Selenide.$$;
 

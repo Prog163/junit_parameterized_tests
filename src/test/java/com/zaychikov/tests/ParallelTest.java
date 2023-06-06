@@ -1,8 +1,8 @@
 package com.zaychikov.tests;
 
 import com.codeborne.selenide.Configuration;
-import com.zaychikov.tests.pagedata.MenuItem;
-import com.zaychikov.tests.pageparametres.WildberriesMainPage;
+import com.zaychikov.pagedata.MenuItem;
+import com.zaychikov.pageparametres.WildberriesMainPage;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.params.ParameterizedTest;
@@ -12,7 +12,7 @@ import java.util.List;
 import java.util.stream.Stream;
 
 import static com.codeborne.selenide.Selenide.open;
-import static com.zaychikov.tests.pageparametres.WildberriesMainPage.URL;
+import static com.zaychikov.pageparametres.WildberriesMainPage.URL;
 
 @Tag("Wildberries")
 public class ParallelTest {
